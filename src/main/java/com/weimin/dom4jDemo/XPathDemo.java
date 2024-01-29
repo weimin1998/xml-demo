@@ -8,7 +8,7 @@ import org.dom4j.io.SAXReader;
 
 import java.io.File;
 import java.util.List;
-
+//xpath，可以快速查找
 public class XPathDemo {
     public static void main(String[] args) throws DocumentException {
         SAXReader saxReader = new SAXReader();
